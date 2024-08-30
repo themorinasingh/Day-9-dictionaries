@@ -1,0 +1,14 @@
+Step 1:
+create a dictonary to stor the data
+
+Step 2:
+take user inout for their name and bid and store it into dictionary
+note: convert bd into an int before saving.
+
+step 3:
+use a while loop
+to ask user if there are more people looking to bid
+and repeat until all people are finished
+
+step 4:
+use a for loop to iterate via the dictionary and find the max bid and the bidder
